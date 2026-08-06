@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Xenium</string>
+    <string name="search_or_type_url">Search or type URL</string>
+    <string name="new_tab">New tab</string>
+    <string name="open_tabs">Open tabs</string>
+    <string name="close_tab">Close tab</string>
+    <string name="go">Go</string>
+    <string name="clear">Clear text</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="refresh">Refresh</string>
+    <string name="stop">Stop</string>
+    <string name="security_secure">Secure connection</string>
+    <string name="security_not_secure">Not secure</string>
+    <string name="untitled_tab">New Tab</string>
+    <string name="tab_count_desc">%1$d open tabs</string>
+    <string name="close_all">Close all tabs</string>
+    <string name="error_site_cant_be_reached">This site can\'t be reached</string>
+    <string name="error_refused_to_connect">refused to connect.</string>
+    <string name="error_what_can_you_do">What can you do about it?</string>
+    <string name="error_tip_check_url">Check to make sure you\'ve typed the website address correctly and try again in a few moments.</string>
+    <string name="error_tip_check_network">Check your network connection.</string>
+    <string name="try_again">Try again</string>
+    <string name="search_google">Search Google</string>
+
+    <string name="menu">Menu</string>
+    <string name="settings">Settings</string>
+    <string name="desktop_site">Desktop site</string>
+
+    <string name="user_agent_spoofing">User Agent spoofing</string>
+    <string name="enable">Enable</string>
+    <string name="user_agent_desc">Changes the browser identifier to bypass restrictions on older devices</string>
+    <string name="predefined">Predefined (Modern Chrome)</string>
+    <string name="custom">Custom string</string>
+    <string name="enter_custom_ua">Enter custom User Agent</string>
+
+    <string name="default_search_engine">Default search engine</string>
+    <string name="about_xenium">About Xenium</string>
+    <string name="app_version">App version</string>
+    <string name="os_version">OS version</string>
+    <string name="webview_version">WebView version</string>
+    <string name="gpu_model">GPU model</string>
+
+    <string name="spoof_visibility">Spoof Page Visibility</string>
+    <string name="spoof_visibility_desc">Prevent websites from knowing when the app is minimized</string>
+
+    <string name="history">History</string>
+    <string name="clear_history">Clear history</string>
+    <string name="clear_all">Clear all</string>
+    <string name="clear_history_confirm_title">Clear history?</string>
+    <string name="clear_history_confirm_message">Are you sure you want to clear all browsing history?</string>
+    <string name="history_empty">No history yet</string>
+    <string name="history_empty_desc">Websites you visit will appear here.</string>
+    <string name="search_history">Search history</string>
+    <string name="delete_item">Delete item</string>
+    <string name="cancel">Cancel</string>
+    <string name="incognito">Incognito</string>
+    <string name="incognito_tab_opened">Incognito tab opened</string>
+</resources>

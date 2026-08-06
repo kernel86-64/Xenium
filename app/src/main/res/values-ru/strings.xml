@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Xenium</string>
+    <string name="search_or_type_url">Введите адрес или запрос</string>
+    <string name="new_tab">Новая вкладка</string>
+    <string name="open_tabs">Открытые вкладки</string>
+    <string name="close_tab">Закрыть вкладку</string>
+    <string name="go">Перейти</string>
+    <string name="clear">Очистить</string>
+    <string name="back">Назад</string>
+    <string name="forward">Вперед</string>
+    <string name="refresh">Обновить</string>
+    <string name="stop">Остановить</string>
+    <string name="security_secure">Защищенное соединение</string>
+    <string name="security_not_secure">Незащищенное соединение</string>
+    <string name="untitled_tab">Новая вкладка</string>
+    <string name="tab_count_desc">%1$d открытых вкладок</string>
+    <string name="close_all">Закрыть все вкладки</string>
+    <string name="error_site_cant_be_reached">Не удалось получить доступ к сайту</string>
+    <string name="error_refused_to_connect">отклонил подключение.</string>
+    <string name="error_what_can_you_do">Что вы можете сделать?</string>
+    <string name="error_tip_check_url">Проверьте правильность написания веб-адреса и повторите попытку через несколько минут.</string>
+    <string name="error_tip_check_network">Проверьте ваше подключение к сети.</string>
+    <string name="try_again">Повторить попытку</string>
+    <string name="search_google">Искать в Google</string>
+
+    <string name="menu">Меню</string>
+    <string name="settings">Настройки</string>
+    <string name="desktop_site">Версия для ПК</string>
+    <string name="user_agent_spoofing">Подмена User Agent</string>
+    <string name="enable">Включить</string>
+    <string name="user_agent_desc">Меняет идентификатор браузера для обхода ограничений на старых устройствах</string>
+    <string name="predefined">Встроенный (Современный Chrome)</string>
+    <string name="custom">Свой вариант</string>
+    <string name="enter_custom_ua">Введите кастомный User Agent</string>
+    <string name="default_search_engine">Поисковая система по умолчанию</string>
+    <string name="about_xenium">О Xenium</string>
+    <string name="app_version">Версия приложения</string>
+    <string name="os_version">Версия ОС</string>
+    <string name="webview_version">Версия WebView</string>
+    <string name="gpu_model">Модель GPU</string>
+    <string name="spoof_visibility">Подмена видимости страницы</string>
+    <string name="spoof_visibility_desc">Запретить сайтам видеть, когда приложение свернуто</string>
+
+    <string name="history">История</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="clear_all">Очистить всё</string>
+    <string name="clear_history_confirm_title">Очистить историю?</string>
+    <string name="clear_history_confirm_message">Вы уверены, что хотите очистить всю историю посещений?</string>
+    <string name="history_empty">История пуста</string>
+    <string name="history_empty_desc">Посещенные вами сайты будут отображаться здесь.</string>
+    <string name="search_history">Поиск по истории</string>
+    <string name="delete_item">Удалить запись</string>
+    <string name="cancel">Отмена</string>
+    <string name="incognito">Инкогнито</string>
+    <string name="incognito_tab_opened">Открыта вкладка Инкогнито</string>
+</resources>
